@@ -1,0 +1,95 @@
+Test Case: "0 0123456 0X123456789ABCDEF 12345 012389  0.123123 0xabcdef123456789000AAaa 0.123456789e+10 0.123456789e+ 1234567890E-21 1.0E-21 	1.e- 1..e- 1.e-- 1e.= 1e.++ 1.e+1 eqweq ok? 13[ 2\ 2) 1.3.,.. 12344467e+ 1. oXAFaf1 0XAF 0xa 00000001 00.e+11 00.0.e+"
+
+Test Case Output:
+Zero: 0
+Octal: 0123456
+Hexadecimal: 0X123456789ABCDEF
+Decimal: 12345
+Octal: 0123
+Decimal: 89
+Float: 0.123123
+Hexadecimal: 0xabcdef123456789000AAaa
+Float: 0.123456789e+10
+Float: 0.123456789
+Invalid : [0x65]
+Invalid : [0x2b]
+Float: 1234567890E-21
+Float: 1.0E-21
+Decimal: 1
+Invalid : [0x2e]
+Invalid : [0x65]
+Invalid : [0x2d]
+Decimal: 1
+Invalid : [0x2e]
+Invalid : [0x2e]
+Invalid : [0x65]
+Invalid : [0x2d]
+Decimal: 1
+Invalid : [0x2e]
+Invalid : [0x65]
+Invalid : [0x2d]
+Invalid : [0x2d]
+Decimal: 1
+Invalid : [0x65]
+Invalid : [0x2e]
+Invalid : [0x3d]
+Decimal: 1
+Invalid : [0x65]
+Invalid : [0x2e]
+Invalid : [0x2b]
+Invalid : [0x2b]
+Decimal: 1
+Invalid : [0x2e]
+Invalid : [0x65]
+Invalid : [0x2b]
+Decimal: 1
+Invalid : [0x65]
+Invalid : [0x71]
+Invalid : [0x77]
+Invalid : [0x65]
+Invalid : [0x71]
+Invalid : [0x6f]
+Invalid : [0x6b]
+Invalid : [0x3f]
+Decimal: 13
+Invalid : [0x5b]
+Decimal: 2
+Invalid : [0x5c]
+Decimal: 2
+Invalid : [0x29]
+Float: 1.3
+Invalid : [0x2e]
+Invalid : [0x2c]
+Invalid : [0x2e]
+Invalid : [0x2e]
+Decimal: 12344467
+Invalid : [0x65]
+Invalid : [0x2b]
+Decimal: 1
+Invalid : [0x2e]
+Invalid : [0x6f]
+Invalid : [0x58]
+Invalid : [0x41]
+Invalid : [0x46]
+Invalid : [0x61]
+Invalid : [0x66]
+Decimal: 1
+Hexadecimal: 0XAF
+Hexadecimal: 0xa
+Octal: 00000001
+Octal: 00
+Invalid : [0x2e]
+Invalid : [0x65]
+Invalid : [0x2b]
+Decimal: 11
+Octal: 00
+Invalid : [0x2e]
+Zero: 0
+Invalid : [0x2e]
+Invalid : [0x65]
+Invalid : [0x2b]
+Zero: 0
+Invalid : [0x65]
+Invalid : [0x6f]
+Invalid : [0x65]
+
